@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/AnaMenu.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/database/KullaniciDataAccess.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/pages/KullaniciListele.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/pages/KitapListele.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/pages/KullaniciEkle.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/entities/Kitap.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/management/KitapYonetimi.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/LoginPage.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/management/KullaniciYonetimi.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/entities/Kullanici.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/pages/KitapEkle.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/database/DataAccessLayer.java</file>
+            <file>file:/Users/eneskizilca/NetBeansProjects/KutuphaneFinalProjesi/src/database/KitapDataAccess.java</file>
+        </group>
+    </open-files>
+</project-private>
