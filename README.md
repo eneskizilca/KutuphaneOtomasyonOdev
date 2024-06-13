@@ -1,4 +1,4 @@
-# KutuphaneOtomasyonOdev
+# Kutuphane Otomasyonu Uygulama Görüntüleri
  Java & MySQL ile yapılmış bir arayüzlü otomasyon projesi
  
 <img width="500" alt="Ekran Resmi 2024-06-13 14 17 07" src="https://github.com/eneskizilca/KutuphaneOtomasyonOdev/assets/76004060/b76c7a2e-b820-4044-89d5-07798e4764c3">
