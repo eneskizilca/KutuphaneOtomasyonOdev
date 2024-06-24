@@ -10,7 +10,7 @@ public class DataAccessLayer {
 
     private static final String URL = "jdbc:mysql://localhost:3306/first_connection";
     private static final String USER = "root";
-    private static final String PASSWORD = "cgbe52250";
+    private static final String PASSWORD = "0000";
 
     public static Connection baglantiKur(Connection connection) {
 
