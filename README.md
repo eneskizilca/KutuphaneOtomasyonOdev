@@ -1,5 +1,5 @@
 # Kutuphane Otomasyonu Uygulama Goruntuleri
- Java & MySQL ile yapılmış bir arayüzlü otomasyon projesi
+ Java & MySQL ile yapılmış arayüzlü bir otomasyon projesi
  
 <img width="500" alt="Ekran Resmi 2024-06-13 14 17 07" src="https://github.com/eneskizilca/KutuphaneOtomasyonOdev/assets/76004060/b76c7a2e-b820-4044-89d5-07798e4764c3">
 <img width="658" alt="Ekran Resmi 2024-06-13 14 17 26" src="https://github.com/eneskizilca/KutuphaneOtomasyonOdev/assets/76004060/b9168bde-2837-419a-812b-50f5a5fa3ca8">
